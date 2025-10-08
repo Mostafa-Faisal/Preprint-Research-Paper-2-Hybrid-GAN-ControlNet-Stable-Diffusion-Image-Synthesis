@@ -1,4 +1,4 @@
-# Preprint-Research-Paper-4-HYBRID GENERATIVE FRAMEWORK: Integrating Single-Image GANs with ControlNet-Guided Stable Diffusion for High-Fidelity Image Synthesis
+# HYBRID GENERATIVE FRAMEWORK: Integrating Single-Image GANs with ControlNet-Guided Stable Diffusion for High-Fidelity Image Synthesis
 
 > **Authors:**  
 > 🔹 Rabeya Amin Jhuma — University of Information Technology and Sciences (UITS), Dhaka, Bangladesh  
